@@ -5,8 +5,6 @@
 
 ##### I'm a game developer making websites and smaller projects on the side
 
-- 🔭 I’m currently working on several games and a website
+- 🔭 I’m currently working on several [games](https://treixatek.itch.io/jaws-of-hunt) and a website
 - 📫 How to reach me: *you know where to find me...* maybe 😄
-
-![Play my game](https://treixatek.itch.io/jaws-of-hunt)
 
