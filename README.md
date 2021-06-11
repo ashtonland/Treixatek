@@ -8,3 +8,5 @@
 - 🔭 I’m currently working on several games and a website
 - 📫 How to reach me: *you know where to find me...* maybe 😄
 
+![Play my game](https://treixatek.itch.io/jaws-of-hunt)
+
