@@ -9,12 +9,12 @@
 
 <p align="center">
   
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-ffcc00?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-54c2de?style=flat-square&logo=react&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-009dff?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-11bf5d?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-09914f?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="c#" src="https://img.shields.io/badge/-C%23-440e9c?style=flat-square" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-161b24?style=flat-square&logo=html5&logoColor=E34F26" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-161b24?style=for-the-badge&logo=javascript&logoColor=ffcc00" />
+  <img alt="React" src="https://img.shields.io/badge/-React-161b24?style=flat-square&logo=react&logoColor=54c2de" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-161b24?style=flat-square&logo=typescript&logoColor=009dff" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-161b24?style=flat-square&logo=mongodb&logoColor=11bf5d" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-161b24?style=flat-square&logo=Node.js&logoColor=09914f" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-161b24?style=flat-square&logo=graphql&logoColor=E10098" />
+  <img alt="c#" src="https://img.shields.io/badge/-C%23-161b24?style=flat-square" />
 </p>
