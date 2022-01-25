@@ -2,10 +2,7 @@
 <h3 align="center">👋 Hello</h3>
 <h4 align="center">👉 I’m currently working on several <a href="https://treixatek.itch.io/jaws-of-hunt">games</a> and a pretty cool undercover project (at least i think so :)</h4>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Treixatek&&hide=issues,stars&count_private=true&show_icons=true&bg_color=161b24&hide_border=true&title_color=bbc3d0&text_color=838d9d&icon_color=ffcf5f" height="145"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Treixatek&layout=compact&langs_count=4&hide=hlsl,shaderlab,glsl,c,python&bg_color=161b24&hide_border=true&title_color=bbc3d0&text_color=838d9d" height="145"/>
-</p>
+
 
 <p align="center">
   <img alt="Nextjs" src="https://img.shields.io/badge/-Nextjs-161b24?style=flat-square&logoWidth=20&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAA8ElEQVQ4T62SMStHYRSHn2eSTL6IiFUmKYusPoSSRMpmMygWg3wAlv8HIJNNSUQZlFKUDAiL/HTrXl1yb/3LO56ep3Pe3zkm6VXf6fLZJf+N/4+YZBG4VvfqkyTZBF7Vpar+o2OSXWAKGFQvKyjJNvCmzraJY8A9MKR+FmApvqhzbeIdMAAcqKs18UmdbxNvgTXgDBgtRk6yAzyqC23iTQEkmQGKsIaBDeC5LZx94LgCknSAE+AQGFdXmjpeAB11ufxbP3AOTAJX9Qv7vY4RoEc9qq1iAlgvAlM//uzYdH5JtoCHxlFbxL4y5Wn1tOC+ALVubg/su2N1AAAAAElFTkSuQmCC" />
