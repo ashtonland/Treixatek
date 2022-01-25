@@ -5,7 +5,6 @@
 <div align="center">
 <ol>
         <p>🦄 I am working on several <a href="https://treixatek.itch.io/jaws-of-hunt"><b>games</b></a></p>
-        <p>:monocle_face: Interested in everything <b>Gamedev</b></p>
         <p>💝 <b>UI designing</b> & Game development</p>
   <p>🤠 <b>Graphql</b> is king, no doubt about it.</p>
   <p>:seedling: Currently learning <b>Nextjs</b><p>
