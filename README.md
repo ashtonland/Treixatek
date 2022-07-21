@@ -1,6 +1,5 @@
-<br>
 <h3 align="center">👋 Hello</h3>
-</br>
+<br/>
 
 <div align="center">
 <ol>
