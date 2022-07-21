@@ -1,12 +1,13 @@
-<h3 align="center">👋 Hello</h3>
-<br/>
+<h3 align="center">👋 Hello!</h3>
+<!--<br/>-->
 
 <div align="center">
 <ol>
-        <p>🦄 I am working on several <a href="https://twitter.com/ZeroSugarAshton"><b>games</b></a></p>
+        <p>I am a <b>game</b> developer, <b>ui</b> designer, <b>graphics</b> engineer, and <b>web</b> dev!🍹😎</p>
+        <!--<p>🦄 I am working on several <a href="https://twitter.com/ZeroSugarAshton"><b>games</b></a></p>
         <p>💝 <b>UI designing</b> & game development</p>
-  <!--<p>🤠 <b>Graphql</b> is king, no doubt about it.</p>-->
-  <p>🪴 Learning <b>graphics engineering</b><p>
+  <p>🤠 <b>Graphql</b> is king, no doubt about it.</p>
+  <p>🪴 Learning <b>graphics engineering</b><p>-->
   </ol>
 </div>
 
