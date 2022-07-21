@@ -6,7 +6,7 @@
 <ol>
         <p>🦄 I am working on several <a href="https://twitter.com/ZeroSugarAshton"><b>games</b></a></p>
         <p>💝 <b>UI designing</b> & game development</p>
-  <p>🤠 <b>Graphql</b> is king, no doubt about it.</p>
+  <!--<p>🤠 <b>Graphql</b> is king, no doubt about it.</p>-->
   <p>🪴 Learning <b>graphics engineering</b><p>
   </ol>
 </div>
